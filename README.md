@@ -1,1 +1,1 @@
-# co2-emission-mlr
+# co2-emission-linear-regression
